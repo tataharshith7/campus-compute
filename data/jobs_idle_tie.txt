@@ -1,0 +1,7 @@
+# CPU idle gaps (t=2..6 and t=11..20) and a full tie:
+# J1 and J2 arrive together with the same priority, so the lower id (J1) goes first.
+# id arrival burst priority
+3 0 2 1
+1 6 3 2
+2 6 2 2
+4 20 1 5

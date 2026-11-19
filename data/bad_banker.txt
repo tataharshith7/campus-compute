@@ -1,0 +1,7 @@
+# invalid: P0 holds more of R0 than its Maximum
+2 1
+1
+5
+2
+3
+3
